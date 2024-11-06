@@ -1,0 +1,7 @@
+#Entorno virtual
+env/
+*.env
+
+#Archivos de configuracion sensible
+__pycache__/
+
